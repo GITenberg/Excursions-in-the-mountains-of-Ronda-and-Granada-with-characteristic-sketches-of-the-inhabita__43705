@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42165
     wikipedia: http://en.wikipedia.org/wiki/Charles_Rochfort_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43705#Excursions-in-the-mountains-of-Ronda-and-Granada-with-characteristic-sketches-of-the-inhabita_
 gutenberg_issued: '2013-09-12'
 gutenberg_type: Text
 identifiers:
